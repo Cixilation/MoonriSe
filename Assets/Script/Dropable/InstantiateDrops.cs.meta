@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eac77dd72631bb04e919c7fa56bbcccd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - berry: {fileID: 21300000, guid: 8dbfa514de9b1d645b7b3212f07c4203, type: 3}
+  - exp: {fileID: 21300000, guid: 0c314c8d3a639764b9acc00be8c94616, type: 3}
+  - tomato: {fileID: 21300000, guid: 51e7e489b63824a48a1da41de4e4161a, type: 3}
+  - bamboo: {fileID: 21300000, guid: da3e5800d3162784990a2a3b51bd7a2f, type: 3}
+  - wood: {fileID: 21300000, guid: 4e1e17312807e0545be00f2edf665531, type: 3}
+  - dropAbleObject: {fileID: 7676153559426712930, guid: f4f11480743ec1d439d60af72427b519, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
